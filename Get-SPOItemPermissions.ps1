@@ -21,8 +21,8 @@
 
 .NOTES
     File Name      : Get-SPOItemPermissions.ps1
-    Author         : Mike Lee
-    Date Created   : 6/24/2025
+    Author         : Bilal Rauther
+    Date Created   : 11/24/2025
 
     The script uses app-only authentication with a certificate thumbprint. Make sure the app has
     proper permissions in your tenant (Sites.FullControl.All is recommended).
