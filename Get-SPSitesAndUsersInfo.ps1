@@ -35,7 +35,7 @@
 
 .NOTES
     File Name      : Get-SPSitesAndUsersInfo.ps1
-    Author         : Mike Lee / Andrew Thompson
+    Author         : Mike Lee / Andrew Thompson / Bilal Rauther
     Prerequisite   : PnP.PowerShell module installed
     Date           : 6/19/25     
     Version        : 2.1
