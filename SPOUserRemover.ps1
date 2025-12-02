@@ -40,8 +40,8 @@
     
 .NOTES
     File Name      : SPOUserRemover.ps1
-    Author         : Mike Lee
-    Date Created   : 7/29/2025
+    Author         : Bilal Rauther
+    Date Created   : 11/29/2025
 
     Prerequisites  : 
     - PnP.PowerShell module installed
