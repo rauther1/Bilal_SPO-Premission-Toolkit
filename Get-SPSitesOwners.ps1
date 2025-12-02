@@ -24,7 +24,7 @@
 
 .NOTES
     File Name      : Get-SPSitesOwners.ps1
-    Author         : Mike Lee
+    Author         : Bilal Rauther
     Prerequisite   : PnP.PowerShell module installed
     Date           : 11/13/25     
     Version        : 3.0
