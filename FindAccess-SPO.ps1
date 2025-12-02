@@ -90,9 +90,9 @@
 
 .NOTES
     File Name      : FindAccess-SPO.ps1
-    Author         : Mike Lee
+    Author         : Bilal Rauther
     Prerequisite   : PnP PowerShell module, App-Only authentication setup
-    Created Date   : 10/1/2025
+    Created Date   : 11/1/2025
     Version        : 2.0 (Converted to PnP PowerShell with App-Only Authentication)
 
 Disclaimer: The sample scripts are provided AS IS without warranty  
