@@ -80,8 +80,8 @@
     - Link Removed: Whether the sharing link was removed (in remediation mode)
 
 .NOTES
-    Authors: Mike Lee
-    Updated: 8/29/2025
+    Authors: Bilal Rauther
+    Updated: 11/29/2025
 
     - Requires PnP.PowerShell 2.x or above
     - Requires an Entra app registration with appropriate SharePoint permissions
